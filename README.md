@@ -22,7 +22,7 @@
     <li>Nearly having to "recode the entire OS" just to get the fifteenth library working, or to travel through half internet just to fix an error in a single library</li>
     <li>Getting a project filled with unnecesary files while using an SDK, API or Framework </li>
   </ul>
-  <li>🎭 Any C++ code without OOP is just C, so why bother on C++ if in C I'm in heaven?</li>
+  <li>🎭 Any C++ code without OOP is just C, so why bother on C++?</li>
   <li>🤘 Defends his position due to:</li>
   <ul>
     <li>Witnessing how arguably optimized programs annihilated his toaster</li>
