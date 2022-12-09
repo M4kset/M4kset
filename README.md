@@ -9,7 +9,7 @@
     <li>Imperative/procedural and functional programing paradigms supremacy</li>
     <li>Making everything from scratch</li>
     <li>The console, the best debugger</li>
-    <li>The more control the better AKA knowing what exactly is going on</li>
+    <li>The more control the better AKA knowing exactly what is going on</li>
   </ul>
   </li>
   <li>📝 Notepad (not ++) enthusiast</li>
