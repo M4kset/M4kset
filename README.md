@@ -1,6 +1,6 @@
 <h3><i>Already said wassup in the bio</i></h3>
 
-░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓████████████████████████████
+░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓████████████████████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░
 
 <ul>
   <li>🙏 Believes in: 
@@ -13,7 +13,7 @@
   </ul>
   </li>
   <li>📝 Notepad (not ++) enthusiast</li>
-  <li>👎😕 Goes against:</li>
+  <li>👎 Goes against:</li>
   <ul>
     <li>OOP</li>
     <li>Any slow interpreted language</li>
@@ -27,9 +27,9 @@
   <ul>
     <li>Witnessing how arguably optimized programs annihilated his toaster</li>
     <li>Being tired of using pirate programs</li>
+    <li>Wishing to have a program that fulfills his needs, or improves the workflow</li>
     <li>Getting tired of some people pretending that every person in the world has a similar pc to theirs</li>
   </ul>
-  <li>😔 Wishes to be in a world where the most optimized program is ran by the best computer on the world</li>
   <li>☢ Fan of manual memory management</<li>
   <li>Does have he mentioned he dislikes OOP programing paradigm and Python yet?</li>
   <li>Has no clue on how to use GitHub 👈😂</li>
