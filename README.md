@@ -6,7 +6,7 @@
   <li>🙏 Believes in: 
   <ul>
     <li>C supremacy </li>
-    <li>Imperative/procedural and functional programing paradigms supremacy</li>
+    <li>Imperative/procedural and functional programing paradigms supremacy (structs are still OOP behaviour for me 🤷‍♂️)</li>
     <li>Making everything from scratch</li>
     <li>The console, the best debugger</li>
     <li>The more control the better AKA knowing exactly what is going on</li>
