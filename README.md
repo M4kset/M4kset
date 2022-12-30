@@ -1,9 +1,5 @@
-<h3><i>Already said wassup in the bio</i></h3>
-
-░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓████████████████████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░
-
-<ul>
-  <li>🙏 Believes in: 
+░░░░▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓██████████
+<details><summary>🙏 Believes in</summary>
   <ul>
     <li>C supremacy </li>
     <li>Imperative/procedural and functional programing paradigms supremacy (structs are still OOP behaviour, imo 🤷‍♂️)</li>
@@ -11,9 +7,9 @@
     <li>The console, the best debugger</li>
     <li>The more control the better AKA knowing exactly what is going on</li>
   </ul>
-  </li>
-  <li>📝 Notepad (not ++) enthusiast</li>
-  <li>👎 Goes against:</li>
+</details>
+
+<details><summary>👎 Goes against</summary>
   <ul>
     <li>OOP</li>
     <li>Any slow interpreted language</li>
@@ -22,15 +18,15 @@
     <li>Nearly having to "recode the entire OS" just to get the fifteenth library working, or to travel through half internet just to fix an error in a single library</li>
     <li>Getting a project filled with unnecesary files while using an SDK, API or Framework </li>
   </ul>
-  <li>🎭 Any C++ code without OOP is just C, so why bother on C++?</li>
-  <li>🤘 Defends his position due to:</li>
+</details>
+
+<details><summary>🤘 Defends his position due to</summary>
   <ul>
     <li>Witnessing how arguably optimized programs annihilated his toaster</li>
     <li>Being tired of using pirate programs</li>
     <li>Wishing to have a program that fulfills his needs, or improves the workflow</li>
     <li>Getting tired of some people pretending that every person in the world has a similar pc to theirs</li>
   </ul>
-  <li>☢ Fan of manual memory management</<li>
-  <li>Does have he mentioned he dislikes OOP programing paradigm and Python yet?</li>
-  <li>Has no clue on how to use GitHub 👈😂</li>
-</ul>
+</details>
+
+░░░░▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓██████████
