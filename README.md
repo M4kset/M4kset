@@ -1,15 +1,15 @@
 ░░░░▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓██████████
-<details><summary>🙏 Believes in</summary>
+<details><summary>😃 Fan of</summary>
   <ul>
-    <li>C supremacy </li>
-    <li>Imperative/procedural and functional programing paradigms supremacy (structs are still OOP behaviour, imo 🤷‍♂️)</li>
+    <li>C</li>
+    <li>Imperative/procedural and functional programing paradigms (structs are still OOP behaviour, imo 🤷‍♂️)</li>
     <li>Making everything from scratch</li>
     <li>The console, the best debugger</li>
-    <li>The more control the better AKA knowing exactly what is going on</li>
+    <li>The more control you have the better AKA knowing exactly what is going on</li>
   </ul>
 </details>
 
-<details><summary>👎 Goes against</summary>
+<details><summary>👎 Not a fan of</summary>
   <ul>
     <li>OOP</li>
     <li>Any slow interpreted language</li>
