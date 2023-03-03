@@ -1,7 +1,7 @@
 ░░░░▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓██████████
 <details><summary>😃 Fan of</summary>
   <ul>
-    <li>C</li>
+    <li>C or C-like languages</li>
     <li>Imperative/procedural and functional programing paradigms (structs are still OOP behaviour, imo 🤷‍♂️)</li>
     <li>Making everything from scratch</li>
     <li>The console, the best debugger</li>
